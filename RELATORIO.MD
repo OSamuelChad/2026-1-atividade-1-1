@@ -55,30 +55,30 @@ A atividade foi muito importante para eu entender como um Sistema Operacional ge
 
 Fase inicial e Criação do Projeto
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 Fazendo a Migração do Sqlite nativo no Django
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Criando superuser e rodando
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 Problemas de Permissão
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 Ajuste do Problema de Permissões e rodando novamente
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ### Telas:
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 **Possivel problema de middleware...**
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
